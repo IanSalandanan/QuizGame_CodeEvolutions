@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cktsalandanan_Lab_A4_QuizGame", "cktsalandanan_Lab_A4_QuizGame.csproj", "{5F6D851B-0D3E-408A-9C8C-B47B47057C77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F6D851B-0D3E-408A-9C8C-B47B47057C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6D851B-0D3E-408A-9C8C-B47B47057C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6D851B-0D3E-408A-9C8C-B47B47057C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6D851B-0D3E-408A-9C8C-B47B47057C77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E4190BB-F72B-4233-9C22-E05DA79A0B9D}
+	EndGlobalSection
+EndGlobal

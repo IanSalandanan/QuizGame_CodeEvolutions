@@ -1,0 +1,7 @@
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A4_QuizGame\bin\Debug\cktsalandanan_Lab_A4_QuizGame.exe.config
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A4_QuizGame\bin\Debug\cktsalandanan_Lab_A4_QuizGame.exe
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A4_QuizGame\bin\Debug\cktsalandanan_Lab_A4_QuizGame.pdb
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A4_QuizGame\obj\Debug\cktsalandanan_Lab_A4_QuizGame.csproj.AssemblyReference.cache
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A4_QuizGame\obj\Debug\cktsalandanan_Lab_A4_QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A4_QuizGame\obj\Debug\cktsalandanan_Lab_A4_QuizGame.exe
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A4_QuizGame\obj\Debug\cktsalandanan_Lab_A4_QuizGame.pdb

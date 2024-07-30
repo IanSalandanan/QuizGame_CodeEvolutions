@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "cktsalandanan_Lab_A2_QuizGame/1.0.0": {
+        "runtime": {
+          "cktsalandanan_Lab_A2_QuizGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cktsalandanan_Lab_A2_QuizGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A3_QuizGame\obj\Debug\net6.0\cktsalandanan_Lab_A3_QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A3_QuizGame\obj\Debug\net6.0\cktsalandanan_Lab_A3_QuizGame.AssemblyInfoInputs.cache
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A3_QuizGame\obj\Debug\net6.0\cktsalandanan_Lab_A3_QuizGame.AssemblyInfo.cs
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A3_QuizGame\obj\Debug\net6.0\cktsalandanan_Lab_A3_QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A3_QuizGame\bin\Debug\net6.0\cktsalandanan_Lab_A3_QuizGame.exe
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A3_QuizGame\bin\Debug\net6.0\cktsalandanan_Lab_A3_QuizGame.deps.json
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A3_QuizGame\bin\Debug\net6.0\cktsalandanan_Lab_A3_QuizGame.runtimeconfig.json
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A3_QuizGame\bin\Debug\net6.0\cktsalandanan_Lab_A3_QuizGame.dll
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A3_QuizGame\bin\Debug\net6.0\cktsalandanan_Lab_A3_QuizGame.pdb
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A3_QuizGame\obj\Debug\net6.0\cktsalandanan_Lab_A3_QuizGame.dll
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A3_QuizGame\obj\Debug\net6.0\refint\cktsalandanan_Lab_A3_QuizGame.dll
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A3_QuizGame\obj\Debug\net6.0\cktsalandanan_Lab_A3_QuizGame.pdb
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A3_QuizGame\obj\Debug\net6.0\cktsalandanan_Lab_A3_QuizGame.genruntimeconfig.cache
+C:\Users\Christian Kerby\source\repos\cktsalandanan_Lab_A3_QuizGame\obj\Debug\net6.0\ref\cktsalandanan_Lab_A3_QuizGame.dll
